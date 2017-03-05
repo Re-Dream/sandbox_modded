@@ -1,0 +1,8 @@
+"gamemode"
+{
+	"base"		"sandbox"
+	"title"		"redream"
+	"maps"		"^gm_"
+	"menusystem"	"0"
+	
+}
