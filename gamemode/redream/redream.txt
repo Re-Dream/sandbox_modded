@@ -1,8 +1,8 @@
 "gamemode"
 {
-	"base"		"sandbox"
-	"title"		"redream"
+	"base"		"base"
+	"title"		"Re-Dream"
 	"maps"		"^gm_"
-	"menusystem"	"0"
+	"menusystem"	"1"
 	
 }
