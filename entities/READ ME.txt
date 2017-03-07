@@ -1,2 +1,2 @@
 Don't add stupid stuff to the base gamemode, only things that add to the functionality
-weapons or other stuff goes into its own repository that gets moduueled to this repository
+addons get submoduled to this repo, throw meme stuff in there
