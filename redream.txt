@@ -1,8 +1,8 @@
 "gamemode"
 {
-	"base"		"base"
+	"base"		"sandbox"
 	"title"		"Re-Dream"
 	"maps"		"^gm_"
-	"menusystem"	"1"
-	
+	"menusystem"	"0"
+
 }
