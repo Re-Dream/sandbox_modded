@@ -1,6 +1,6 @@
 # Re-Dream Base files
 This is a repository for the base files for the gamemode ran on Re-Dream.
-Join the server: https://gmlounge.us/join
+Join the server: https://re-dream.org/join
 
 Any additions can be added by any users via pull requests.
 If you're planning to run this yourself, name the folder "sandbox_modded" for it work properly.
